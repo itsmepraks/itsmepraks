@@ -1,14 +1,13 @@
-# Hi 👋, I'm Prakriti Bista
-
+# Hi, I'm Prakriti
 ### ML/AI Engineer
 
-- 🔭 **I am currently working on a lot of things. Mainly, I am working to improve my interactive map of Washington, DC. I am also building and learning efficient system architecture with LLM and GenAI**
+- **I am currently working on a lot of things. Mainly, I am working to improve my interactive map of Washington, DC. I am also building and learning efficient system architecture with LLM and GenAI**
 
-- 🌱 I'm currently learning **TypeScript + Python**
+- I'm currently learning **TypeScript + Python**
 
-- 👨‍💻 All of my projects are available at **[https://praks.me](https://praks.me)**
+- All of my projects are available at **[https://praks.me](https://praks.me)**
 
-- 📝 I regularly write articles on **[https://praks.me](https://praks.me)**
+- I regularly write articles on **[https://praks.me](https://praks.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
